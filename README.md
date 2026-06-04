@@ -1,2 +1,4 @@
 # Codveda-Project---Exploratory-Data-Analysis-Project
-Perform an exploratory analysis on a given dataset to identify patterns, trends, and summary statistics.
+The project requires Perform to prform an explorative data analysis on churn data tu identify trends,pattern and summary statistics.
+
+## Dataset Used for the analysis
